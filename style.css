@@ -1,0 +1,28 @@
+.canvas {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid white;
+
+}
+
+canvas {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid white;
+    margin-top: 35px;
+}
+
+body {
+    background-color: black;
+}
+
+.tela {
+    border: solid white;
+
+}
+
+h1 {
+    color: white;
+}
